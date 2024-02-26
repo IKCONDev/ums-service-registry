@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.ikn.ums.serviceregistry</groupId>
 	<artifactId>ums-service-registry</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>ALPHA-0.1</version>
 	<name>ums-service-registry</name>
 	<description>UMS Employee-Service</description>
 	<properties>
